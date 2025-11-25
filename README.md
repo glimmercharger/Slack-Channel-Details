@@ -162,7 +162,7 @@ Created by [Will](https://github.com/glimmercharger)
 ## 🙏 Acknowledgments
 
 - Built with the [Slack SDK for Python](https://github.com/slackapi/python-slack-sdk)
-- README remake by [Freddie](https://github.com/hippogriff101)
+- README remake by GitHub Copilot
 
 ---
 
